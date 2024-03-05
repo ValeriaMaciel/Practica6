@@ -1,0 +1,19 @@
+body{
+    background-color: #f1eebb;
+}
+
+h1{
+    background-color: #b66d6d;
+}
+/* Estilo por defecto */
+tbody tr {
+    background-color: rgb(209, 46, 46);
+}
+  
+/* Estilo al pasar el mouse */
+tbody tr:hover {
+    background-color: #3b53bf;
+}
+table{
+    bordercolo: #ffffff;
+}
